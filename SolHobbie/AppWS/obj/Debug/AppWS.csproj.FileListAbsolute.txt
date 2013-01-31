@@ -1,0 +1,7 @@
+C:\Pro\Elvis\UPC\DSD\TrabHobbie\SolHobbie\AppWS\obj\Debug\ResolveAssemblyReference.cache
+C:\Pro\Elvis\UPC\DSD\TrabHobbie\SolHobbie\AppWS\bin\AppWS.dll
+C:\Pro\Elvis\UPC\DSD\TrabHobbie\SolHobbie\AppWS\bin\AppWS.pdb
+C:\Pro\Elvis\UPC\DSD\TrabHobbie\SolHobbie\AppWS\bin\Iesi.Collections.dll
+C:\Pro\Elvis\UPC\DSD\TrabHobbie\SolHobbie\AppWS\bin\NHibernate.dll
+C:\Pro\Elvis\UPC\DSD\TrabHobbie\SolHobbie\AppWS\obj\Debug\AppWS.dll
+C:\Pro\Elvis\UPC\DSD\TrabHobbie\SolHobbie\AppWS\obj\Debug\AppWS.pdb
